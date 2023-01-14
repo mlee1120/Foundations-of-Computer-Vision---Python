@@ -1,0 +1,15 @@
+	left	top	right	bottom	Confidence	object	tleft	ttop	tright	tbottom
+125	177 	22 	343 	326 	0.40 	cell phone				
+126	177 	22 	343 	326 	0.40 	cell phone				
+127	177 	22 	343 	327 	0.42 	cell phone				
+128	175 	22 	343 	326 	0.38 	cell phone				
+	328 	26 	477 	335 	0.27 	 0.00000e+00]])				
+129	176 	22 	343 	326 	0.39 	cell phone				
+130	176 	22 	343 	326 	0.38 	cell phone				
+131	175 	22 	343 	327 	0.38 	cell phone				
+132	175 	22 	343 	327 	0.36 	cell phone				
+	326 	26 	477 	334 	0.26 	 0.00000e+00]])				
+133	175 	22 	343 	327 	0.35 	cell phone				
+	326 	26 	477 	335 	0.34 	 0.00000e+00]])				
+134	325 	26 	477 	336 	0.43 	 0.00000e+00]				
+	175 	22 	344 	327 	0.31 	cell phone				

@@ -1,0 +1,21 @@
+	left	top	right	bottom	Confidence	object	tleft	ttop	tright	tbottom
+27	186 	295 	395 	739 	0.81 	person				
+	0 	6 	302 	485 	0.44 	person				
+28	178 	317 	396 	744 	0.93 	person				
+	0 	0 	292 	469 	0.84 	person				
+29	169 	347 	394 	745 	0.93 	person				
+	3 	0 	294 	470 	0.86 	person				
+30	167 	347 	392 	744 	0.93 	person				
+	3 	0 	292 	463 	0.89 	person				
+31	159 	384 	390 	745 	0.92 	person	159 	384 	390 	745 
+	0 	21 	287 	546 	0.87 	person	0 	10 	287 	546 
+32	145 	450 	382 	749 	0.94 	person				
+	37 	73 	349 	462 	0.92 	person				
+33	142 	476 	379 	745 	0.92 	person				
+	54 	101 	383 	450 	0.91 	person				
+34	133 	496 	371 	743 	0.91 	person				
+	44 	105 	426 	446 	0.90 	person				
+35	126 	514 	364 	749 	0.92 	person				
+	21 	109 	464 	440 	0.87 	person				
+36	124 	514 	362 	749 	0.92 	person				
+	20 	109 	463 	442 	0.88 	person				
